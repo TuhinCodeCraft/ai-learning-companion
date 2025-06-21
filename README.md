@@ -2,8 +2,8 @@
 
 ![Project Banner](/public/images/banner.png)  
 
-**Live Demo:** [https://ai-learning-companion.vercel.app](https://ai-learning-companion.vercel.app)  
-**Video Demo:** [YouTube Demo Walkthrough](#) *(Add link when available)*
+**Live Demo:** [Learn with your personalized AI companion](https://ai-learning-companion-jade.vercel.app/)  
+**Video Demo:** [YouTube Demo Walkthrough](#)
 
 ## 🌟 Introduction
 
