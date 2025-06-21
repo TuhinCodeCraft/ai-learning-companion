@@ -4,8 +4,7 @@ import { redirect } from "next/navigation";
 import { newCompanionPermissions } from "@/lib/actions/companion.actions";
 import Image from "next/image";
 import Link from "next/link";
-import { fail } from "assert";
-import { fallbackModeToFallbackField } from "next/dist/lib/fallback";
+
 
 const NewCompanion = async () => {
   const { userId } = await auth();

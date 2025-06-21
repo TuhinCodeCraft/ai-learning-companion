@@ -9,7 +9,7 @@ const PrivacyPolicy = () => {
         <h1 className="text-4xl font-bold text-gray-900 mb-4">Privacy Policy</h1>
         <div className="w-20 h-1 bg-indigo-600 mx-auto"></div>
         <p className="mt-6 text-lg text-gray-600 max-w-3xl mx-auto">
-          At <span className="font-semibold text-indigo-600">Tutoraid</span>, we're committed to protecting your personal information and being transparent about our data practices.
+          At <span className="font-semibold text-indigo-600">Tutoraid</span>, we&apos;re committed to protecting your personal information and being transparent about our data practices.
         </p>
       </div>
 
