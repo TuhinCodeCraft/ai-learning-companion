@@ -3,7 +3,7 @@
 ![Project Banner](/public/images/banner.png)  
 
 **Live Demo:** [Learn with your personalized AI companion](https://ai-learning-companion-jade.vercel.app/)  
-**Video Demo:** [YouTube Demo Walkthrough](#)
+**Video Demo:** [YouTube Demo Walkthrough]([#](https://youtu.be/9DZ1HAHg5Eg))
 
 ## 🌟 Introduction
 
